@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Conect</h4>
+<h2 align="left">Conectar</h4>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <!-- <h2 align="left">Languages</h4> -->
-<h2 align="left">Technologies</h4>
+<h2 align="left">Tecnologias</h4>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Status</h2>
 
 ###
 
