@@ -24,7 +24,8 @@
 
 ###
 
-<h2 align="left">Languages</h4>
+<!-- <h2 align="left">Languages</h4> -->
+<h2 align="left">Technologies</h4>
 
 ###
 
@@ -42,7 +43,7 @@
 
 ###
 
-<h2 align="left">Web</h4>
+<!-- <h2 align="left">Web</h4> -->
 
 ###
 
@@ -58,7 +59,7 @@
 
 ###
 
-<h2 align="left">Mobile</h4>
+<!-- <h2 align="left">Mobile</h4> -->
 
 ###
 
@@ -68,7 +69,7 @@
 
 ###
 
-<h2 align="left">Database</h4>
+<!-- <h2 align="left">Database</h4> -->
 
 ###
 
@@ -80,7 +81,7 @@
 
 ###
 
-<h2 align="left">Design</h4>
+<!-- <h2 align="left">Design</h4> -->
 
 ###
 
