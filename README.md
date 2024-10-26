@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Contato</h4>
+<h3 align="left">Contato</h4>
 
 ###
 
