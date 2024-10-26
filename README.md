@@ -7,7 +7,7 @@
 ###
 
 <h3 align="left">Contato</h4>
-
+<hr/>
 ###
 
 <div align="left">
