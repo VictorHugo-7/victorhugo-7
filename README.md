@@ -18,7 +18,7 @@
 ###
 
 <h2 align="left">Portifólio</h4>
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](/)
+
 
 ###
 
@@ -96,11 +96,23 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="132" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="132" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="132" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="168" alt="streak graph"  />
+</div>
+
+###
 
 
 ###
