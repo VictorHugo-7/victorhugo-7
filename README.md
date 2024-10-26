@@ -1,8 +1,8 @@
-<h1 align="left">Olá! Eu sou o Victor Hugo 👋</h1>
+<h1 align="center">Olá! Eu sou o Victor Hugo 👋</h1>
 
 ###
 
-<p align="left">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
+<p align="center">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
 
 ###
 
