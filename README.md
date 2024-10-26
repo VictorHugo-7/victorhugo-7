@@ -6,9 +6,9 @@
 
 ###
 
-<h4 align="left">Contato</h4>
-<hr/>
+<h2 align="left">Contato</h4>
 
+###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -17,11 +17,11 @@
 
 ###
 
-<h4 align="left">Portifólio</h4>
+<h2 align="left">Portifólio</h4>
 
 ###
 
-<h4 align="left">Languages</h4>
+<h2 align="left">Languages</h4>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">Web</h4>
+<h2 align="left">Web</h4>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h4 align="left">Mobile</h4>
+<h2 align="left">Mobile</h4>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h4 align="left">Database</h4>
+<h2 align="left">Database</h4>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">Design</h4>
+<h2 align="left">Design</h4>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h4 align="left">Status</h4>
+<h2 align="left">Status</h4>
 
 ###
 
