@@ -3,8 +3,10 @@
 ###
 
 <p align="left">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=VictorHugo-7)
-![Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/VictorHugo-7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=VictorHugo-7)  
+
+![Visitantes - Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/VictorHugo-7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 
 ###
