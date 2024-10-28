@@ -4,9 +4,6 @@
 
 <p align="left">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=VictorHugo-7)  
-
-
 
 ###
 
@@ -120,3 +117,5 @@
         src="https://raw.githubusercontent.com/victorhugo-7/victorhugo-7/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=VictorHugo-7)  
