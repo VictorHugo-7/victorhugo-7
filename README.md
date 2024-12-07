@@ -2,9 +2,9 @@
 
 ###
 
-<div style="display: flex; align-items: center;">
-  <img src="https://blog.hubdodesenvolvedor.com.br/wp-content/uploads/2024/03/capa-linguagens-em-alta.jpg" alt="Sua imagem" width="150" style="margin-right: 20px;" />
-  <p>Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <p style="margin-right: 20px;">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
+  <img src="https://blog.hubdodesenvolvedor.com.br/wp-content/uploads/2024/03/capa-linguagens-em-alta.jpg" alt="Sua imagem" width="150" />
 </div>
 
 ###
