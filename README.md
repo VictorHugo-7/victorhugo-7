@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="right" height="300px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952sf7ps7fq6bjn56ncae1qpdyw9pzlofdvewpfg3vg&ep=v1_gifs_search&rid=giphy.gif&ct=g""/>
+  <img align="right" height="300px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif""/>
     <div>
       <p align="left" text_align="justify">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. </p>
       <p align="left" text_align="justify">Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. </p>
