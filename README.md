@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img align="right" height="250px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif""/>
+  <img align="right" height="230px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif""/>
     <div>
       <p align="left" text_align="justify">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. </p>
       <p align="left" text_align="justify">Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. </p>
