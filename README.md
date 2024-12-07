@@ -3,11 +3,16 @@
 ###
 
 <div>
-  <img align="right" height="200px" src="https://blog.hubdodesenvolvedor.com.br/wp-content/uploads/2024/03/capa-linguagens-em-alta.jpg""/>
-  <p align="justify" text_align="justify">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso</p>
+  <img align="right" height="235px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952sf7ps7fq6bjn56ncae1qpdyw9pzlofdvewpfg3vg&ep=v1_gifs_search&rid=giphy.gif&ct=g""/>
+    <div>
+      <p align="left" text_align="justify">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. </p>
+      <p align="left" text_align="justify">Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. </p>
+      <p align="left" text_align="justify">Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso. </p>
+      <p align="left" text_align="justify">Meu objetivo é documentar minha evolução, e contribuir para a comunidade com ideias, códigos e soluções que possam inspirar e ajudar outros estudantes dw tecnologia. </p>
+    </div>
 </div>
 
-###
+
 
 <h2 align="left">Conectar</h4>
 
@@ -103,14 +108,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="132" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="132" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="132" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=4&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+<picture >
     <source media" (prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/victorhugo-7/victorhugo-7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
@@ -118,6 +131,7 @@
     <img alt="github contribution grid snake animation"
         src="https://raw.githubusercontent.com/victorhugo-7/victorhugo-7/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 <br><br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=VictorHugo-7)  
