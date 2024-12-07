@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
+<div style="display: flex; align-items: center;">
+  <img src="URL_DA_SUA_IMAGEM" alt="Sua imagem" width="150" style="margin-right: 20px;" />
+  <p>Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso.</p>
+</div>
 
 ###
 
