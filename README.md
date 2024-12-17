@@ -8,7 +8,7 @@
       <p align="left" text_align="justify">Sou estudante de Ciências da Computação no Instituto Mauá de Tecnologia. </p>
       <p align="left" text_align="justify">Atualmente estou no meu primeiro ano e começando minha jornada no universo da programação e tecnologia. </p>
       <p align="left" text_align="justify">Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso. </p>
-      <p align="left" text_align="justify">Meu objetivo é documentar minha evolução, e contribuir para a comunidade com ideias, códigos e soluções que possam inspirar e ajudar outros estudantes dw tecnologia. </p>
+      <p align="left" text_align="justify">Meu objetivo é documentar minha evolução, e contribuir para a comunidade com ideias, códigos e soluções que possam inspirar e ajudar outros estudantes de tecnologia. </p>
     </div>
 </div>
 
