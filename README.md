@@ -14,8 +14,8 @@
 <h2 align="left">Conectar</h4>
 <div align="left">
   <a href="mailto:victorhotpinho7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-pinho-38306730b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
+  <a href="https://www.linkedin.com/in/victor-hugo-pinho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.victorhugopinho.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
   <!-- http://portifoliovictor.s3-website-sa-east-1.amazonaws.com/ -->
 </div>
 
