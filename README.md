@@ -12,17 +12,17 @@
 
 <!-- CONECTAR -->
 <h2 align="left">Conectar</h4>
-<div align="center">
+<div align="left">
   <a href="mailto:victorhotpinho7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
   <a href="https://www.linkedin.com/in/victor-hugo-pinho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="https://www.victorhugopinho.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
+  <a href="https://www.victorhugopinho.com.br" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
   <!-- http://portifoliovictor.s3-website-sa-east-1.amazonaws.com/ -->
 </div>
 
 
 <!-- TECNOLOGIAS -->
 <h2 align="left">Tecnologias</h4>
-<div align="center">
+<div align="left">
   
   <!-- Linha 1 -->
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
@@ -83,11 +83,13 @@
 
 <!-- Gráficos -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=4&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorHugo-7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorHugo-7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorHugo-7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=4&order=3" height="180" alt="streak graph"  />
+</div>
 
 <!-- Gráficos Snake-->
 <div align="center">
