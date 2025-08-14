@@ -1,7 +1,7 @@
 <!-- SOBRE -->
 <h1 align="center">Olá! Eu sou o Victor Hugo 👋</h1>
 <div>
-  <img align="right" height="170px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif""/>
+  <img align="right" height="150px" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif""/>
     <div>
       <p align="left" text_align="justify">Estudante de Ciências da Computação no Instituto Mauá de Tecnologia. Atualmente estou no 4° semestre </p>
       <p align="left" text_align="justify">Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso. </p>
