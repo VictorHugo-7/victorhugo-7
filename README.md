@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt=".NET logo" />
   <img width="6" />
 
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="microsoftsqlserver logo" />
   <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB logo" />
