@@ -1,7 +1,7 @@
 ```
 Desenvolvedor Full-Stack
 
-Tecnologias: C#, .NET, SQL, AWS, GIT, Figma
+Tecnologias: C# | .NET | SQL | AWS | GIT
 Email......: victorhotpinho7@gmail.com
 Linkedin...: victor-hugo-pinho
 Portfólio..: victorhugopinho.com.br
