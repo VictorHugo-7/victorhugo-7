@@ -1,10 +1,11 @@
 ```
 Desenvolvedor Full-Stack
+Estudante do 6º semestre de CIC no IMT
 
-Tecnologias: C# | .NET | SQL | AWS | Git
-Email......: victorhotpinho7@gmail.com
-Linkedin...: victor-hugo-pinho
-Portfólio..: victorhugopinho.com.br
+Competências.....: C# | .NET | SQL | AWS | Git | Scrum
+Contato.Email....: victorhotpinho7@gmail.com
+Contato.Linkedin.: victor-hugo-pinho
+Contato.Portfólio: victorhugopinho.com.br
 ```
 
 
