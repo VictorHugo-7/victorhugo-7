@@ -1,6 +1,6 @@
 ```
 Desenvolvedor Full-Stack
-Estudante do 6º semestre de CIC no IMT
+Estudante do 6º semestre de Ciências da Computação no Instituto Mauá de Tecnologia
 
 Competências.....: C# | .NET | SQL | AWS | Git | Scrum
 Contato.Email....: victorhotpinho7@gmail.com
